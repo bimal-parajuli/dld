@@ -3,14 +3,17 @@
 **This repo contanins all the parctical materials necessary for Digital Logic Design Practicals.**
 >The contents of this file are:-
 
-1. Exp4
-2. Exp5
-2. Exp6
-3. Exp7
-4. Exp8
-5. LogicWorks
-6. Proteus Projects
-7. Verilog HDL\
+1. Exp1
+2. Exp2
+2. Exp3
+3. Exp4
+4. Exp5
+5. Exp6
+6. Exp7
+7. Exp8
+8. LogicWorks
+9. Proteus Projects
+10. Verilog HDL\
 &nbsp;\
 -Lab Manual\
 -Common Cover page 
