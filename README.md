@@ -3,7 +3,7 @@
 **This repo contanins all the parctical materials necessary for Digital Logic Design Practicals.**
 >The contents of this file are:-
 
-1. <a href="https://github.com/bimal-parajuli/dld/tree/main/EXP1">EXP1</a>
+1. <a href="https://github.com/bimal-parajuli/dld/tree/main/Exp1">Exp1</a>
 2. Exp2
 2. Exp3
 3. Exp4
