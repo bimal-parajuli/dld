@@ -4,15 +4,15 @@
 >The contents of this file are:-
 
 1. <a href="https://github.com/bimal-parajuli/dld/tree/main/Exp1">Exp1</a>
-2. Exp2
-2. Exp3
-3. Exp4
-4. Exp5
-5. Exp6
-6. Exp7
-7. Exp8
-8. LogicWorks
-9. Proteus Projects
+2. <a href="https://github.com/bimal-parajuli/dld/tree/main/Exp2">Exp2</a>
+2. <a href="https://github.com/bimal-parajuli/dld/tree/main/Exp3">Exp3</a>
+3. <a href="https://github.com/bimal-parajuli/dld/tree/main/Exp4">Exp4</a>
+4. <a href="https://github.com/bimal-parajuli/dld/tree/main/Exp5">Exp5</a>
+5. <a href="https://github.com/bimal-parajuli/dld/tree/main/Exp6">Exp6</a>
+6. <a href="https://github.com/bimal-parajuli/dld/tree/main/Exp7">Exp7</a>
+7. <a href="https://github.com/bimal-parajuli/dld/tree/main/Exp8">Exp8</a>
+8. <a href="https://github.com/bimal-parajuli/dld/tree/main/LogicWorks">LogicWorks</a>
+9. <a href="https://github.com/bimal-parajuli/dld/tree/main/Proteus_projects">Proteus Projects</a>
 10. Verilog HDL\
 &nbsp;\
 -Lab Manual\
