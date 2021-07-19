@@ -1,7 +1,7 @@
 # Digital Logic Design
 ---
 **This repo contanins all the parctical materials necessary for Digital Logic Design Practicals.**
->The contents of this file are:-
+>The contents of this repo are:-
 
 1. <a href="https://github.com/bimal-parajuli/dld/tree/main/Exp1">Exp1</a>
 2. <a href="https://github.com/bimal-parajuli/dld/tree/main/Exp2">Exp2</a>
