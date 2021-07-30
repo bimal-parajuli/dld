@@ -1,8 +1,0 @@
-{S:/VIT_Academics/2nd_sem/DLD_CSE1003/LAB/Verilog HDL/XOR_gate.v} {1 {vlog -work work {S:/VIT_Academics/2nd_sem/DLD_CSE1003/LAB/Verilog HDL/XOR_gate.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module FullAdder
-
-Top level modules:
-	FullAdder
-
-} {} {}}
